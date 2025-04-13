@@ -37,9 +37,6 @@ zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-completions
 zinit light zsh-users/zsh-syntax-highlighting
 
-# ZSH configuration
-setopt globdots
-
 # My aliases
 alias c=clear
 alias code="cd /home/pablo/Documentos/code"
